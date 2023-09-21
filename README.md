@@ -1,7 +1,7 @@
 
 # Fire Alarm Arduino Project 
 
-This is my Computer Systemes Architecture coursework where I developed a portable fire alarm system using 2 Arduino microcontrollers. 
+This is my Computer Systems Architecture coursework where I developed a portable fire alarm system using 2 Arduino microcontrollers. 
 
 The primary objective is to enhance fire detection and alerting capabilities in various environments.
 
